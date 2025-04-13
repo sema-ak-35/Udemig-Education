@@ -1,7 +1,9 @@
 # Udemig-Education
 
 -​Bu proje, modern web tasarımının temel taşlarından biri olan SCSS kullanılarak geliştirilmiş, responsive (duyarlı) bir web sitesidir.
+
 -SCSS'nin sunduğu değişkenler, mixin'ler ve iç içe stil tanımlamaları gibi özellikler sayesinde, stil dosyaları modüler ve sürdürülebilir bir yapıda organize edilmiştir.
+
 - SCSS'nin sağladığı avantajlarla, bu proje hem estetik açıdan zengin hem de teknik olarak sağlam bir yapıya kavuşmuştur.​
 
 
